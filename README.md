@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on projects to help the world and people <3
 
-- 🤔 I’m always open to help you and answer any kind of doubts about technologies and things i know  and  looking to collaborate on  any kind of project with a good purpose! :)
+- 🌱 I’m always open to help you and answer any kind of doubts about technologies and things i know  and  looking to collaborate on  any kind of project with a good purpose! :)
 
-- 📫 How to reach me: - 📫 How to reach me [@ferreiracoder](https://twitter.com/ferreiracoder) (twitter) and [@caminomedicina](https://www.instagram.com/caminomedicina/) (instagram)
+- 📫 How to reach me: - 📫 How to reach me [@vitorregisrr](https://twitter.com/vitorregisrr) (twitter) and [@caminomedicina](https://www.instagram.com/caminomedicina/) (instagram)
 
 - 😄 Pronouns: he/him
  
