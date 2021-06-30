@@ -1,6 +1,4 @@
-<div align="center">
-Hi, I'm Vitor Régis 🦅<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</div>
+<h1> Hi, I'm Vitor Régis 🦅<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 - 🔭 I’m currently working on projects to help the world and people <3
 
@@ -13,5 +11,7 @@ Hi, I'm Vitor Régis 🦅<img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 - ⚡ Fun fact: i love spirituality <3
 
 <div align="center">
+ 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorregisrr&hide=contribs,prs)
+ 
 </div>
