@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: - 📫 How to reach me [@vitorregisrr](https://twitter.com/vitorregisrr) (twitter) and [@caminomedicina](https://www.instagram.com/caminomedicina/) (instagram)
 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/they
  
 - ⚡ Fun fact: i'm also a holistic therapist  🧝 🧙 👁️
 
