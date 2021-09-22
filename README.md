@@ -7,7 +7,7 @@
 
 - 🌱 I’m always open to help you and answer any kind of doubts about technologies and things i know. I'm alsoo looking to collaborate on any kind of project with a good purpose! :)
 
-- 📫 ow to reach me: [vitorr.dev](https://vitorr.dev) (website) [@vitorregisrr](https://twitter.com/vitorregisrr) (twitter) and [@caminomedicina](https://www.instagram.com/caminomedicina/) (instagram)
+- 📫 How to reach me: [vitorr.dev](https://vitorr.dev) (website) [@vitorregisrr](https://twitter.com/vitorregisrr) (twitter) and [@caminomedicina](https://www.instagram.com/caminomedicina/) (instagram)
 
 - 😄 Pronouns: he/they
  
