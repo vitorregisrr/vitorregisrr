@@ -11,4 +11,4 @@
 
 - 😄 Pronouns: he/they
  
-- ⚡ Fun fact: i'm also a holistic therapist  🧝 🧙 👁️
+- ⚡ Fun fact: i love spirituality  🧝 🧙 👁️
