@@ -1,4 +1,4 @@
-<h1> Hi, I'm Vitor Régis 🦅<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1> Hi, I'm Vitor Régis 🦅 </h1>
 
 <br/>
 <h3 align="center">I'm a free soul who trusts in the regeneration of the world through technology, compassion, vision, inspiration and love, serving my purpose as a software engineer. 🦅🌍✨</h3>
