@@ -5,12 +5,6 @@
 
 <br/>
 
-- 🔭 I’m currently working on projects to help the world and people <3
-
-- 😄 Pronouns: he/they
-
-<br/>
-
 <div align="center">
   <a href="https://github.com/Dudaqfigueiredo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorregisrr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
